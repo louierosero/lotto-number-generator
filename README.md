@@ -14,7 +14,7 @@ To use this feature, simply clone this repository to your local machine and open
 - Or just visit this link https://lotto-numbers-generator.netlify.app/.
 
 ## Credits
-This project was developed by Louie Rosero as a fun project to practice web development skills.
+This project was developed by [Louie Rosero](https://github.com/louierosero) as a fun project to practice web development skills.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.

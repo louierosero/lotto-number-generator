@@ -1,6 +1,8 @@
 # Lotto Generated Number
 The Lotto Generated Number is a simple feature designed to help users generate a set of numbers for a specific Lotto Draw. With just one click, users can generate a random number between 1 and the maximum number specified for the lotto draw
 
+![hello](https://user-images.githubusercontent.com/5468245/231516682-e8fd3776-6fa4-45bd-a42b-c99b535652f0.png)
+
 ## How it Works
 When the user selects a specific lotto draw (e.g., 6/45), they can click on the "GENERATE NUMBER" button to generate a number. The generated number is displayed at the top of the page in ascending order to avoid confusion when the user writes the numbers down on their lotto paper.
 

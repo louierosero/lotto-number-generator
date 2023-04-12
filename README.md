@@ -17,4 +17,4 @@ To use this feature, simply clone this repository to your local machine and open
 This project was developed by [Louie Rosero](https://github.com/louierosero) as a fun project to practice web development skills.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/louierosero/lotto-number-generator/blob/main/LICENSE.md) file for details.

@@ -11,7 +11,7 @@ The Lotto Generated Number feature simplifies the process of playing the lotto a
 
 ## Installation
 To use this feature, simply clone this repository to your local machine and open the index.html file in your web browser.
-- Or just visit this link www.sample.com
+- Or just visit this link https://lotto-numbers-generator.netlify.app/.
 
 ## Credits
 This project was developed by Louie Rosero as a fun project to practice web development skills.

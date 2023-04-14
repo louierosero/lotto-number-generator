@@ -29,7 +29,7 @@ p.disclaimer {
 .currentDrawNumber,
 .generateNumber,
 .s-block p {
-  font-family: 'tungstenbold';
+  font-family: 'tungstenbold', sans-serif;
 }
 
 /* PRIMARY SECTION */
